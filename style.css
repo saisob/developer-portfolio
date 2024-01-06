@@ -203,7 +203,37 @@ main {
     font-size: 16px;
     font-weight: 400;
 }
-.download-cv{
+
+.download-cv {
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer style */
+footer {
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+.section-discription {
+    color: #474747;
+    font-size: 16px;
+    font-weight: 400;
+}
+.social-link a{
+    margin-right: 30px;
+}
+.contact>.input-text,.input-email,.input-textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 30px;
+    font-size: 16px;
+    color: var#757575;
+    border-radius: 5px;
+    background-color: #FFF;
+    width: 100%;
 }

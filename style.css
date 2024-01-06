@@ -139,3 +139,30 @@ main {
     font-size: 20px;
     font-weight: 700;
 }
+
+#id-discription {
+    padding: 30px 130px;
+}
+
+.skill-container {
+    display: flex;
+}
+
+.skill {
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+}
+
+.skill-title {
+    color: #181818;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.skill-discription {
+    color:#757575;
+    font-size: 16px;
+    font-weight: 400;
+}
